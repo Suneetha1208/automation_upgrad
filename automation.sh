@@ -6,8 +6,8 @@
 apt update -y
 
 #Initializing variables
-myname='hozefa'
-s3_bucket='upgrad-hozefa'
+myname=”Suneetha”
+s3_bucket=”upgrad-Suneetha”
 timestamp=$(date '+%d%m%Y-%H%M%S')
 
 
